@@ -15,7 +15,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 #### **Ferramentas**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -26,14 +25,23 @@
 
 ### 📚 No que estou trabalhando agora?
 
-* 🔭 Desenvolvendo projetos práticos com **React** e **Next.js** para o meu portfólio.
-* 📐 Estudando **UI/UX Design** no Figma para melhorar o visual das minhas aplicações.
-* 📱 Focado em **Mobile First** e layouts totalmente responsivos.
-* ⚡ Aprendendo a consumir **APIs REST** e gerenciar estados globais.
+* 🔭 Desenvolvendo projetos práticos com **React** e **Next.js**.
+* 📐 Estudando **UI/UX Design** para criar interfaces mais intuitivas.
+* 📱 Focado em **Mobile First** (responsividade para dispositivos móveis).
+* ⚡ Aprendendo a integrar front-end com **APIs REST**.
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 Estatísticas
 
 <p align="left">
-  <img height="180em" src="https
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelksilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelksilva&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-alcantara-b899b2326/)
+[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:israel.alcantara@hotmail.com)
