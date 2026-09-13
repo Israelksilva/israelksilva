@@ -185,25 +185,6 @@ Hardware e Suporte de TI
 
 ---
 
-## 📊 GitHub Analytics
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=Israelksilva&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"
-/>
-
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israelksilva&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-/>
-
-</div>
----
-
 ## 🌐 Contato
 
 <div align="center">
