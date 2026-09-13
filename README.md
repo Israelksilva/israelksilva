@@ -1,81 +1,229 @@
-# 👋 Olá, eu sou Israel Alcantara
+<div align="center">
 
-🎓 Estudante de Engenharia de Software na UNIFACS
-💻 Desenvolvedor Front-end em formação
-🎨 Apaixonado por criar interfaces modernas, responsivas e acessíveis
+# 👨‍💻 Israel Alcantara
 
----
+### Software Engineering Student • Full Stack Development • Technology
 
-## 🚀 Sobre Mim
+Estudante de **Engenharia de Software na UNIFACS**, desenvolvendo aplicações web modernas e explorando novas tecnologias através de projetos práticos.
 
-Sou estudante de Engenharia de Software e atualmente estou focado no desenvolvimento Front-end. Gosto de transformar ideias em interfaces bonitas, funcionais e intuitivas.
+[![Portfolio](https://img.shields.io/badge/PORTFÓLIO-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://lsraelalcantara.site/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/israel-alcantara-b899b2326/)
+[![Email](https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge\&logo=microsoftoutlook\&logoColor=white)](mailto:israel.alcantara@hotmail.com)
 
-Tenho interesse em criar projetos modernos utilizando React, Next.js e TailwindCSS, sempre buscando melhorar a experiência do usuário e aprender novas tecnologias.
-
----
-
-## 🛠 Minha Stack de Estudos
-
-### Linguagens & Base
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-
-### Frameworks & Estilização
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
+</div>
 
 ---
 
-## 📚 Atualmente Estudando
+## 👨‍💻 Sobre mim
 
-* 🔭 Desenvolvimento de projetos práticos com React e Next.js
-* 📐 UI/UX Design para criar interfaces mais intuitivas
-* 📱 Responsividade e Mobile First
-* ⚡ Integração de front-end com APIs REST
-* 🗄️ Noções de banco de dados e back-end
-* 🌐 Versionamento de código com Git e GitHub
+Sou estudante de **Engenharia de Software na UNIFACS**, com foco no desenvolvimento de aplicações web e na construção de soluções utilizando tecnologias modernas.
 
----
+Minha experiência prática envolve desde a criação de **interfaces responsivas e interativas** até integração com **APIs, autenticação, banco de dados e desenvolvimento Back-end**.
 
-## 📌 Projetos em Destaque
+Utilizo meus projetos como laboratório para estudar arquitetura, boas práticas, experiência do usuário, integração entre sistemas e resolução de problemas reais.
 
-* 🎨 Landing Pages modernas e responsivas
-* 🧮 Calculadoras e ferramentas web
-* ⏰ Relógio digital
-* 🐶 Sites de petshop e agendamento
-* 📱 Projetos utilizando React e Next.js
+Além do desenvolvimento de software, possuo conhecimentos em **suporte de TI, hardware, manutenção de computadores e análise de dados**.
+
+Atualmente busco oportunidades que me permitam ampliar minha experiência profissional em **Desenvolvimento de Software e Tecnologia da Informação**.
 
 ---
 
-## 🎯 Objetivo
+## 🛠️ Tech Stack
 
-Meu objetivo é evoluir como desenvolvedor Front-end, construir projetos cada vez mais completos e conquistar oportunidades na área de tecnologia.
+### 💻 Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
+</p>
+
+**HTML5 • CSS3 • JavaScript • TypeScript • Python**
+
+### ⚛️ Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+**React • Next.js • Tailwind CSS • Vite**
+
+### ⚙️ Back-end & Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,supabase" />
+</p>
+
+**FastAPI • Supabase • REST APIs • Autenticação**
+
+### 🧰 Ferramentas & Desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+</p>
+
+**Git • GitHub • VS Code • Figma • NPM**
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Projetos em destaque
 
-![Israel GitHub stats](https://github-readme-stats.vercel.app/api?username=Israelksilva\&show_icons=true\&theme=tokyonight)
+### 🤖 GIPC.AI
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Israelksilva\&layout=compact\&theme=tokyonight)
+Aplicação desenvolvida durante o **Hackathon CARF**, integrando desenvolvimento Web e Inteligência Artificial.
+
+`React` `TypeScript` `Vite` `FastAPI` `Gemini API` `JWT`
+
+* Integração Front-end e Back-end
+* Utilização de Inteligência Artificial
+* Autenticação com JWT
+* Desenvolvimento de API
+* Projeto desenvolvido em ambiente de Hackathon
 
 ---
 
-## 📫 Vamos nos conectar?
+### 📚 LearnHub
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/israel-alcantara-b899b2326/)
-[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge\&logo=microsoft-outlook\&logoColor=white)](mailto:israel.alcantara@hotmail.com)
+Plataforma de cursos criada para explorar construção de interfaces e gerenciamento de conteúdos.
+
+`JavaScript` `HTML` `CSS`
+
+* Login e cadastro
+* Catálogo com múltiplos cursos
+* Sistema de filtros
+* Wishlist
+* Ordenação
+* Filtro por faixa de preço
+* Interface responsiva
 
 ---
 
-⭐ Sempre buscando aprender, evoluir e criar projetos cada vez melhores.
+### 📋 TaskFlow
+
+Aplicação de gerenciamento de tarefas baseada no modelo **Kanban**.
+
+`React` `Supabase` `JavaScript`
+
+* Autenticação de usuários
+* Supabase Auth
+* Fluxo PKCE
+* Gerenciamento de tarefas
+* Persistência de dados
+* Interface responsiva
+
+---
+
+### ⚽ Football Stats
+
+Aplicação para organização e visualização de informações sobre jogadores de futebol.
+
+`JavaScript` `HTML` `CSS`
+
+* Catálogo de jogadores
+* Filtro por clube
+* Filtro por posição
+* Filtro por nacionalidade
+* Manipulação dinâmica de dados
+
+---
+
+### 🌌 Núcleo Quântico 3D
+
+Experimento de **Creative Coding** inspirado na representação visual de um buraco negro e seu disco de acreção.
+
+`Three.js` `GLSL` `GSAP` `JavaScript`
+
+* Renderização 3D
+* Shaders personalizados
+* Animações
+* Simulação visual de disco de acreção
+* Experimentos com WebGL
+
+---
+
+### 🌳 Árvore Fractal 3D
+
+Projeto de programação generativa utilizando conceitos matemáticos para geração de estruturas tridimensionais.
+
+`Three.js` `GLSL` `JavaScript`
+
+* L-Systems
+* Fractais
+* Geração procedural
+* Shaders
+* Renderização 3D
+
+---
+
+## 🧠 Conhecimentos
+
+```text
+Desenvolvimento Front-end
+Desenvolvimento Back-end
+APIs REST
+Banco de Dados
+Autenticação
+Git & GitHub
+UI/UX
+Responsividade
+Mobile First
+Programação Orientada a Objetos
+Engenharia de Software
+Hardware e Suporte de TI
+```
+
+---
+
+## 📚 Atualmente aprimorando
+
+* ⚛️ React e arquitetura de aplicações
+* 🔷 TypeScript
+* ▲ Next.js
+* 🐍 Python
+* ⚙️ Desenvolvimento Back-end
+* 🔌 Desenvolvimento e integração de APIs
+* 🗄️ Banco de dados e Supabase
+* 🏗️ Arquitetura e Engenharia de Software
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Israelksilva&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israelksilva&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Israelksilva/Israelksilva/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🌐 Contato
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Meu_Portfólio-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://lsraelalcantara.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/israel-alcantara-b899b2326/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Israelksilva)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge\&logo=microsoftoutlook\&logoColor=white)](mailto:israel.alcantara@hotmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Construindo, aprendendo e evoluindo um commit de cada vez.
+
+⭐ Explore meus repositórios e conheça alguns dos projetos que estou desenvolvendo.
+
+</div>
