@@ -197,16 +197,6 @@ Hardware e Suporte de TI
 
 ---
 
-## 🐍 Contribuições
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Israelksilva/Israelksilva/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🌐 Contato
 
 <div align="center">
